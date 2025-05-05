@@ -19,7 +19,14 @@ Full project report available here:
 
 Or view it inline:
 
-<embed src="./Bring_And_Take_Transportation_&_Logistics_Solution.pdf" type="application/pdf" width="100%" height="600px" />
+```html
+<embed
+  src="./Bring_And_Take_Transportation_&_Logistics_Solution.pdf"
+  type="application/pdf"
+  width="100%"
+  height="600px"
+/>
+```
 
 ---
 
