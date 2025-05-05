@@ -12,21 +12,12 @@ Developed as part of an academic project, this platform demonstrates the integra
 
 ---
 
-## 📄 Documentation
+## 📘 Full Project Report – Bring & Take Transportation & Logistics Solution
 
-Full project report available here:  
-👉 [📘 Bring*And_Take_Transportation*&\_Logistics_Solution.pdf](./Bring_And_Take_Transportation_&_Logistics_Solution.pdf)
-
-Or view it inline:
-
-```html
-<embed
-  src="./Bring_And_Take_Transportation_&_Logistics_Solution.pdf"
-  type="application/pdf"
-  width="100%"
-  height="600px"
-/>
-```
+| Action          | Link                                                                                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Download**    | [Download PDF](./Bring_And_Take_Transportation_&_Logistics_Solution.pdf)                                                                                            |
+| **View Online** | [View on GitHub](https://github.com/ayoubboulidam/Bring-And-Take-Transportation-Logistics-Solution/raw/main/Bring_And_Take_Transportation_&_Logistics_Solution.pdf) |
 
 ---
 
