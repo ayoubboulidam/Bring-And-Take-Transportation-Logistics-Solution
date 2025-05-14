@@ -16,7 +16,9 @@ Developed as part of an academic project, this platform demonstrates the integra
 
 Here is an image of the basic architecture:
 
-![Basic Architecture](basic-architecture.png)
+![Basic Architecture](Archi.png)
+
+---
 
 ## 📘 Full Project Report – Bring & Take Transportation & Logistics Solution
 
